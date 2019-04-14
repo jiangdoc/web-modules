@@ -1,0 +1,5 @@
+架构：bootstrap+jquery+jsp+ssm+mysql
+idea:eclipse 
+账号：root
+密码：root
+没有实现md5加密、可以自己实现
